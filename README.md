@@ -1,7 +1,7 @@
 # Open Citations Plugin for Zotero
 
 This Zotero plugin adds information about open citations data for one or several items in Zotero.
-Currently, a DOI lookup in the [OpenCitations COCI service](https://w3id.org/oc/index/coci) is implemented, the result is added as a note, and the latest references are saved in a special collection in Zotero:
+Currently, it uses a DOI lookup in the [OpenCitations COCI service](https://w3id.org/oc/index/coci), adds the result as a note, and saves the latest references in a special collection in Zotero:
 
 ![Screencast](https://user-images.githubusercontent.com/5199995/45599334-11fbca80-b9ea-11e8-9e9d-9e63f86f4b05.gif)
 
